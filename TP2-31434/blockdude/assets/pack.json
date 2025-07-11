@@ -1,0 +1,62 @@
+{
+    "preload": {
+      "files": [
+        {
+          "type": "image",
+          "key": "frame",
+          "url": "./assets/images/frame.png"
+        },
+        {
+          "type": "image",
+          "key": "text-bg",
+          "url": "./assets/images/text-bg.png"
+        },
+        {
+            "type": "image",
+            "key": "a0001",
+            "url": "./assets/images/gem_1.png"
+        },
+        {
+            "type": "image",
+            "key": "a0002",
+            "url": "./assets/images/gem_2.png"
+        },
+        {
+            "type": "image",
+            "key": "a0003",
+            "url": "./assets/images/gem_3.png"
+        },
+        {
+            "type": "image",
+            "key": "a0004",
+            "url": "./assets/images/gem_4.png"
+        },
+        {
+            "type": "image",
+            "key": "a0005",
+            "url": "./assets/images/gem_5.png"
+        },
+        {
+          "type": "image",
+          "key": "a0006",
+          "url": "./assets/images/gem_6.png"
+      },
+      {
+          "type": "image",
+          "key": "a0007",
+          "url": "./assets/images/gem_7.png"
+      },
+
+        {
+          "type": "audio",
+          "key": "music",
+          "url": "./assets/sound/music.ogg"
+         },
+         {
+          "type": "audio",
+          "key": "destory",
+          "url": ["./assets/sound/destory-sound.mp3", "./assets/sound/destory-sound.ogg"]
+         }
+      ]
+    }
+}
